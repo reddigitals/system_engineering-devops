@@ -1,1 +1,1 @@
-week 3
+this readme file for week 3
